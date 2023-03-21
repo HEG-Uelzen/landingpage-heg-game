@@ -1,3 +1,8 @@
-<svelte:head>
-    <meta http-equiv="Refresh" content="0; url=/" />
-</svelte:head>
+<script>
+    import { onMount } from "svelte";
+    import { goto } from "$app/navigation";
+
+    onMount(() => {
+        goto("/");
+    });
+</script>
