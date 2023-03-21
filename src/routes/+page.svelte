@@ -7,7 +7,7 @@
     <div class="prose xl:prose-lg p-10 m-auto">
         <img src="/favicon.png" alt="Bild Atrium" class="m-auto w-52 h-auto" />
 
-        <h1 class="m-auto text-center p-5">The HEGame</h1>
+        <h1 class="m-auto text-center p-5">The HEGame (comming soon!)</h1>
         <p>Wilkommen beim HEGame!</p>
         <p>
             In diesem Spiel müssen Sie sich anhand von Hinweisen durch die
@@ -35,13 +35,22 @@
     </div>
 </main>
 
-<footer class="w-full p-4 grid place-items-center border-t-2 border-t-emerald-500 border-dotted">
+<footer
+    class="w-full p-4 grid place-items-center border-t-2 border-t-emerald-500 border-dotted"
+>
     <section class="prose text-center">
         <p class="text-slate-500">
             Google Play und das Google Play-Logo sind Marken von Google LLC.
             <br />
             AppStore and iOS are trademarks of Apple Inc.
         </p>
-        <p>&copy; {year} Herzog-Ernst-Gymnasium Uelzen</p>
+        <p>
+            &copy; {year}
+            <a
+                href="https://www.heg-uelzen.de/impressum"
+                target="_self"
+                rel="noopener">Herzog-Ernst-Gymnasium Uelzen</a
+            >
+        </p>
     </section>
 </footer>
