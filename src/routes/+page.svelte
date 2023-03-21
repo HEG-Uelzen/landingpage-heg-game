@@ -11,8 +11,9 @@
         <p>Wilkommen beim HEGame!</p>
         <p>
             In diesem Spiel müssen Sie sich anhand von Hinweisen durch die
-            Schule bewegen, um das Spiel zu gewinnen
+            Schule bewegen, um das Spiel zu gewinnen!
         </p>
+        <!--
         <h2>Wie kann man mitspielen?</h2>
         <p>Downloaden Sie die App im App- oder Playstore, um mitzuspielen!</p>
     </div>
@@ -31,7 +32,7 @@
                 src="/badges/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"
                 alt="AppStore Badge"
             /></a
-        >
+        >-->
     </div>
 </main>
 
@@ -39,11 +40,11 @@
     class="w-full p-4 grid place-items-center border-t-2 border-t-emerald-500 border-dotted"
 >
     <section class="prose text-center">
-        <p class="text-slate-500">
+        <!--<p class="text-slate-500">
             Google Play und das Google Play-Logo sind Marken von Google LLC.
             <br />
             AppStore and iOS are trademarks of Apple Inc.
-        </p>
+        </p>-->
         <p>
             &copy; {year}
             <a
