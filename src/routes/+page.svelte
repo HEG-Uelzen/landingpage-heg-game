@@ -7,7 +7,9 @@
     <div class="prose xl:prose-lg p-10 m-auto">
         <img src="/favicon.png" alt="Bild Atrium" class="m-auto w-52 h-auto" />
 
-        <h1 class="m-auto text-center p-5">The HEGame (comming soon!)</h1>
+        <header class="p-5">
+            <h1 class="m-auto text-center">The HEGame<br><small class="text-emerald-600/70 text-xl">(coming soon!)</small></h1>
+        </header>
         <p>Wilkommen beim HEGame!</p>
         <p>
             In diesem Spiel müssen Sie sich anhand von Hinweisen durch die
