@@ -55,5 +55,6 @@
                 rel="noopener">Herzog-Ernst-Gymnasium Uelzen</a
             >
         </p>
+        <p><b>Kontakt: hegame.app[at]heg-portal.de</b></p>
     </section>
 </footer>
