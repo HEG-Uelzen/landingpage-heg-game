@@ -8,12 +8,22 @@
         <img src="/favicon.png" alt="Bild Atrium" class="m-auto w-52 h-auto" />
 
         <header class="p-5">
-            <h1 class="m-auto text-center">The HEGame<br><small class="text-emerald-600/70 text-xl">(coming soon!)</small></h1>
+            <h1 class="m-auto text-center">
+                The HEGame<br /><small class="text-emerald-600/70 text-xl"
+                    >(coming soon!)</small
+                >
+            </h1>
         </header>
         <p>Wilkommen beim HEGame!</p>
         <p>
             In diesem Spiel müssen Sie sich anhand von Hinweisen durch die
             Schule bewegen, um das Spiel zu gewinnen!
+        </p>
+        <p>
+            Das Mobile Game wird im Schulgebäude mithilfe von QR-Codes gepsielt,
+            sprich in Form einer Schnitzeljagd von Raum zu Raum. Diese
+            Schnitzeljagd ändert sich von Durchlauf zu Durchlauf, womit
+            anhaltender Spielspaß & Knobelei garantiert sind!
         </p>
         <!--
         <h2>Wie kann man mitspielen?</h2>
