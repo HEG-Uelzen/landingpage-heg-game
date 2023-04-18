@@ -20,7 +20,7 @@
             Schule bewegen, um das Spiel zu gewinnen!
         </p>
         <p>
-            Das Mobile Game wird im Schulgebäude mithilfe von QR-Codes gepsielt,
+            Das Mobile Game wird im Schulgebäude mithilfe von QR-Codes gespielt,
             sprich in Form einer Schnitzeljagd von Raum zu Raum. Diese
             Schnitzeljagd ändert sich von Durchlauf zu Durchlauf, womit
             anhaltender Spielspaß & Knobelei garantiert sind!
