@@ -55,4 +55,19 @@
         Services. Für Ihre weitere Nutzung dieser App gilt dann die neue
         Datenschutzerklärung.
     </p>
+    <h2>Haftungsausschluss</h2>
+    <p>
+        Unser Informationsangebot haben wir sehr sorgfältig zusammengestellt. Es
+        wird ständig erweitert und aktualisiert. Dennoch können wir leider für
+        die Richtigkeit und Vollständigkeit der Angaben keine Haftung
+        übernehmen. Eine Haftung für direkte oder indirekte Schäden materieller
+        oder immaterieller Art, die durch die Nutzung der Angaben verursacht
+        werden, ist ausgeschlossen. Die Nutzung erfolgt ausschließlich auf
+        eigenes Risiko des Anwenders, es sei denn, fehlerhafte Informationen
+        wurden vorsätzlich oder grob fahrlässig aufgenommen. Soweit wir
+        Fremdtexte eingestellt haben, sind wir für
+        deren Inhalt nicht verantwortlich. Für Schäden, Verletzungen oder Verluste, die durch
+        den Gebrauch dieser Informationen entstehen, übernehmen wir keine
+        Verantwortung.
+    </p>
 </main>
