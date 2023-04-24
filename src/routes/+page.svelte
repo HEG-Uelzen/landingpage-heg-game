@@ -25,26 +25,25 @@
             Schnitzeljagd ändert sich von Durchlauf zu Durchlauf, womit
             anhaltender Spielspaß & Knobelei garantiert sind!
         </p>
-        <!--
         <h2>Wie kann man mitspielen?</h2>
         <p>Downloaden Sie die App im App- oder Playstore, um mitzuspielen!</p>
     </div>
 
-    <div class="w-full flex justify-center gap-4 items-center m-auto">
-        <a href="/"
+    <div class="w-full mb-4 xl:mb-6 flex justify-center gap-4 items-center m-auto">
+        <a href="https://play.google.com/store/apps/details?id=diepoe.heggame" target="_blank" rel="noopener"
             ><img
                 class="w-48 h-auto"
                 src="/badges/google-play-badge.png"
                 alt="PlayStore Badge"
             /></a
         >
-        <a href="/"
+        <a href="/" class="cursor-not-allowed"
             ><img
-                class="w-48 h-auto"
+                class="w-48 h-auto filter blur"
                 src="/badges/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"
                 alt="AppStore Badge"
             /></a
-        >-->
+        >
     </div>
 </main>
 
