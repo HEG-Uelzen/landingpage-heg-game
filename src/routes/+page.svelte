@@ -4,7 +4,7 @@
 </script>
 
 <main class="min-h-screen w-full pb-10">
-    <div class="prose xl:prose-lg p-10 m-auto">
+    <div class="prose xl:prose-lg p-10 m-auto font-grenze prose-headings:font-gotisch">
         <img src="/favicon.png" alt="Bild Atrium" class="m-auto w-52 h-auto" />
 
         <header class="p-5">
@@ -50,12 +50,12 @@
 <footer
     class="w-full p-4 grid place-items-center border-t-2 border-t-stone-500 border-dotted"
 >
-    <section class="prose text-center">
-        <!--<p class="text-slate-500">
+    <section class="prose text-center font-grenze">
+        <p class="text-primary-500">
             Google Play und das Google Play-Logo sind Marken von Google LLC.
             <br />
             AppStore and iOS are trademarks of Apple Inc.
-        </p>-->
+        </p>
         <p>
             &copy; {year}
             <a
