@@ -1,4 +1,4 @@
-<main class="prose xl:prose-lg p-10 m-auto">
+<main class="prose xl:prose-lg p-10 m-auto prose-primary font-grenze prose-headings:font-gotisch">
     <h1>Datenschutz</h1>
     <p>Angaben gemäß § 5 TMG</p>
     <p>

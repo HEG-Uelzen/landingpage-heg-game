@@ -4,12 +4,12 @@
 </script>
 
 <main class="min-h-screen w-full pb-10">
-    <div class="prose xl:prose-lg p-10 m-auto font-grenze prose-headings:font-gotisch">
+    <div class="prose prose-primary xl:prose-lg p-10 m-auto font-grenze prose-headings:font-gotisch">
         <img src="/favicon.png" alt="Bild Atrium" class="m-auto w-52 h-auto" />
 
         <header class="p-5">
             <h1 class="m-auto text-center">
-                The HEGame<br /><small class="text-stone-600/70 text-xl"
+                The HEGame<br /><small class="text-primary-600/70 text-xl"
                     >(coming soon!)</small
                 >
             </h1>
@@ -48,9 +48,9 @@
 </main>
 
 <footer
-    class="w-full p-4 grid place-items-center border-t-2 border-t-stone-500 border-dotted"
+    class="w-full p-4 grid place-items-center border-t-4 border-t-primary-500 border-double"
 >
-    <section class="prose text-center font-grenze">
+    <section class="prose prose-primary text-center font-grenze">
         <p class="text-primary-500">
             Google Play und das Google Play-Logo sind Marken von Google LLC.
             <br />
