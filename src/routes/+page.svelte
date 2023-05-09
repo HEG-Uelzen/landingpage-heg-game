@@ -4,7 +4,7 @@
 </script>
 
 <main class="min-h-screen w-full pb-10">
-    <div class="prose prose-primary xl:prose-lg p-10 m-auto font-grenze prose-headings:font-gotisch">
+    <div class="prose prose-primary xl:prose-lg p-10 m-auto font-grenze prose-headings:font-gotisch prose-headings:text-primary-900">
         <img src="/favicon.png" alt="Bild Atrium" class="m-auto w-52 h-auto" />
 
         <header class="p-5">
