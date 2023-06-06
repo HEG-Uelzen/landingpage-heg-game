@@ -70,4 +70,19 @@
         den Gebrauch dieser Informationen entstehen, übernehmen wir keine
         Verantwortung.
     </p>
+    <hr>
+    <h1>Referenz</h1>
+    <h2>Verwendete Schriftarten</h2>
+<ul>  <li><a href="https://www.omnibus-type.com/fonts/grenze-gotisch/">Grenze Gotisch (Lizensiert unter SIL Open Font License, 1.1)</a></li>
+      <li><a href="https://www.omnibus-type.com/fonts/grenze/">Grenze (Lizensiert unter SIL Open Font License, 1.1)</a></li>
+</ul>
+    <h2>Verwendete Grafiken</h2>
+<ul>
+    <li><a href="https://heropatterns.com/">Hintergründe: https://heropatterns.com/ (Lizensiert unter Attribution 4.0 International (CC BY 4.0))</a></li>
+    <li><a href="https://phosphoricons.com/">Pfeil button (Lizensiert unter https://phosphoricons.com/)</a></li>
+    <li><a href="https://heroicons.com/">Teilen button (Lizensiert unter https://heroicons.com/)</a></li>
+</ul>
 </main>
+
+
+
