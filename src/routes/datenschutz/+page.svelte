@@ -79,8 +79,8 @@
     <h2>Verwendete Grafiken</h2>
 <ul>
     <li><a href="https://heropatterns.com/">Hintergründe: https://heropatterns.com/ (Lizensiert unter Attribution 4.0 International (CC BY 4.0))</a></li>
-    <li><a href="https://phosphoricons.com/">Pfeil button (Lizensiert unter https://phosphoricons.com/)</a></li>
-    <li><a href="https://heroicons.com/">Teilen button (Lizensiert unter https://heroicons.com/)</a></li>
+    <li><a href="https://phosphoricons.com/">Icons: Phosphoricons (Lizensiert unter MIT)</a></li>
+    <li><a href="https://heroicons.com/">Icons: Heroicons (Lizensiert unter MIT)</a></li>
 </ul>
 </main>
 
